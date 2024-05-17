@@ -1,0 +1,26 @@
+#h2{
+    color: brown;
+    background-color: antiquewhite;
+    box-sizing: border-box;
+    border: 2px solid black;
+    padding: 10px;
+}
+body{
+    background-color: pink;
+}
+#username{
+    background-color: palegoldenrod;
+    color: blueviolet;
+}
+#usercontact{
+    background-color: palegoldenrod;
+    color: blueviolet;
+}
+#usermail{
+    background-color: palegoldenrod;
+    color: blueviolet;
+}
+#fruits{
+    background-color: lightskyblue;
+    color: rgb(22, 19, 67);
+}
